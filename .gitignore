@@ -1,0 +1,18 @@
+# data / outputs
+data/raw/
+data/prepared/
+models/*.pkl
+models/*.joblib
+results/
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS
+.DS_Store
