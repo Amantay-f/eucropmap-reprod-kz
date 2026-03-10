@@ -16,3 +16,6 @@ __pycache__/
 
 # OS
 .DS_Store
+models/MLP_torch_model.pt
+models/MLP_per_class_accuracy.csv
+models/RF_feature_names.json
